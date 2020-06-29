@@ -11,16 +11,6 @@ h1:hover {
     cursor: pointer;
 }
 
-.font-small {
-    font-size: 3rem;
-}
-
 .font-large {
     font-size: 7rem;
-}
-
-.font-medium {
-    font-size: 4rem;
-    font-weight: 100;
-    color: white;
 }
