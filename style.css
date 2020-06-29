@@ -7,6 +7,10 @@ h1 {
     font-size: 5rem;
 }
 
+h1:hover {
+    cursor: pointer;
+}
+
 .font-large {
     font-size: 7rem;
 }
